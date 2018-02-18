@@ -1,0 +1,1 @@
+var miBuffer = new Buffer('Hello','utf8');

@@ -1,0 +1,6 @@
+{
+    "comodines" : [
+        { "nombre" : "%titulo%", "valor" : "Este es el titulo de la pagina 404." },
+        { "nombre" : "%parrafo%", "valor" : "Este es el contenido de la pagina 404." }
+    ]
+}

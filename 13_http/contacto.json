@@ -1,0 +1,6 @@
+{
+    "comodines" : [
+        { "nombre" : "%titulo%", "valor" : "Este es el titulo de la pagina de contacto." },
+        { "nombre" : "%parrafo%", "valor" : "Este es el contenido de la pagina de contacto." }
+    ]
+}
